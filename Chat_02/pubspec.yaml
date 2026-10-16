@@ -1,0 +1,28 @@
+name: whatsapp_clone_client
+description: Independent educational messaging client for Android, iOS, and web.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^9.2.2
+  file_picker: 10.3.6
+  http: ^1.2.2
+  mobile_scanner: ^6.0.2
+  qr_flutter: ^4.1.0
+  flutter_webrtc: ^1.2.0
+  record: ^6.1.2
+  video_player: ^2.10.0
+  just_audio: ^0.10.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

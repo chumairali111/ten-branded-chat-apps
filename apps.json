@@ -1,0 +1,122 @@
+[
+  {
+    "folder": "Chat_01",
+    "name": "NovaTalk",
+    "package_id": "com.chumairali.chat01",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#A78BFA",
+      "background": "#100D1B",
+      "bubble": "#4C3574",
+      "corner_radius": 24
+    }
+  },
+  {
+    "folder": "Chat_02",
+    "name": "OceanTalk",
+    "package_id": "com.chumairali.chat02",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#38BDF8",
+      "background": "#07141E",
+      "bubble": "#124D68",
+      "corner_radius": 18
+    }
+  },
+  {
+    "folder": "Chat_03",
+    "name": "ForestTalk",
+    "package_id": "com.chumairali.chat03",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#4ADE80",
+      "background": "#09150F",
+      "bubble": "#22593B",
+      "corner_radius": 14
+    }
+  },
+  {
+    "folder": "Chat_04",
+    "name": "EmberTalk",
+    "package_id": "com.chumairali.chat04",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#FB923C",
+      "background": "#1B100C",
+      "bubble": "#744322",
+      "corner_radius": 12
+    }
+  },
+  {
+    "folder": "Chat_05",
+    "name": "RoseTalk",
+    "package_id": "com.chumairali.chat05",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#FB7185",
+      "background": "#1B0D14",
+      "bubble": "#73364C",
+      "corner_radius": 28
+    }
+  },
+  {
+    "folder": "Chat_06",
+    "name": "ArcticTalk",
+    "package_id": "com.chumairali.chat06",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#67E8F9",
+      "background": "#09161B",
+      "bubble": "#285C68",
+      "corner_radius": 10
+    }
+  },
+  {
+    "folder": "Chat_07",
+    "name": "SolarTalk",
+    "package_id": "com.chumairali.chat07",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#FACC15",
+      "background": "#191609",
+      "bubble": "#655620",
+      "corner_radius": 20
+    }
+  },
+  {
+    "folder": "Chat_08",
+    "name": "IndigoTalk",
+    "package_id": "com.chumairali.chat08",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#818CF8",
+      "background": "#0D1020",
+      "bubble": "#3D477C",
+      "corner_radius": 16
+    }
+  },
+  {
+    "folder": "Chat_09",
+    "name": "MintTalk",
+    "package_id": "com.chumairali.chat09",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#2DD4BF",
+      "background": "#081815",
+      "bubble": "#226457",
+      "corner_radius": 30
+    }
+  },
+  {
+    "folder": "Chat_10",
+    "name": "SlateTalk",
+    "package_id": "com.chumairali.chat10",
+    "backend": "https://chumairali.pythonanywhere.com/api",
+    "theme": {
+      "accent": "#CBD5E1",
+      "background": "#101419",
+      "bubble": "#46566B",
+      "corner_radius": 8
+    }
+  }
+]

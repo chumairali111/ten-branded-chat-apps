@@ -39,7 +39,7 @@ void main() {
           if (request.url.path.endsWith('/login')) {
             return http.Response(
               jsonEncode({
-                'user': {'id': 7, 'username': 'abrar', 'name': 'Abrar'},
+                'user': {'id': 7, 'username': 'umair', 'name': 'Umair'},
                 'csrf': 'csrf',
                 'token': 'native-token',
               }),
@@ -57,9 +57,9 @@ void main() {
       );
       final controller = AppController(api: api, store: store);
 
-      await controller.authenticate('abrar', 'Password123!');
+      await controller.authenticate('umair', 'Password123!');
 
-      expect(controller.user?['name'], 'Abrar');
+      expect(controller.user?['name'], 'Umair');
       expect(store.token, 'native-token');
       expect(store.csrf, 'csrf');
       expect(controller.chats, isEmpty);

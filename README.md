@@ -1,6 +1,6 @@
 # Ten Branded Chat Apps
 
-Ten themed Android clients derived from the same independent Flutter messaging project. Maintained by Abrar Ahmad. Each has a unique Android application ID, display name, icon and palette, while all connect to the same configured backend. These are branded variants of one application, not ten independently engineered systems.
+Ten themed Android clients derived from the same independent Flutter messaging project. Maintained by Umair Ali. Each has a unique Android application ID, display name, icon and palette, while all connect to the same configured backend. These are branded variants of one application, not ten independently engineered systems.
 
 ![NovaTalk UI preview](docs/previews/01_NovaTalk.png)
 
